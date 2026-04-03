@@ -7,6 +7,15 @@
 <body>
 
 <header>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SVWP278E2B"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-SVWP278E2B');
+</script>
     <h1>Booked Appointments List</h1>
     <nav>
         <a href="index.php">Home</a>
